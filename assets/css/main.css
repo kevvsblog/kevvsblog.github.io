@@ -2189,3 +2189,11 @@ input, select, textarea {
 			}
 
 		}
+
+		.class_name{
+			display:block;
+			margin-left: auto;
+			margin-right: auto;
+		}		
+		
+		
